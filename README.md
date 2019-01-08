@@ -12,5 +12,5 @@ Coursera - https://www.coursera.org/learn/machine-learning
 
 ## Platforms
 
-Google Colabortory - https://colab.research.google.com/
-Amazon Sage Maker - https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD4+3T2018/course/
+* Google Colabortory - https://colab.research.google.com/
+* Amazon Sage Maker - https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD4+3T2018/course/
