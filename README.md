@@ -15,3 +15,8 @@ Coursera - https://www.coursera.org/learn/machine-learning
 * Google Colabortory - https://colab.research.google.com/
 * Amazon Sage Maker - https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD4+3T2018/course/
 * Amazon Educate - https://aws.amazon.com/machine-learning/
+
+## Machine Learning frameworks
+
+* MXnet - https://beta.mxnet.io/guide/index.html
+* PyTorch - https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
