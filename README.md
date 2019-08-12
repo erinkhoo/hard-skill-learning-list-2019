@@ -9,7 +9,8 @@ codecademy - https://www.codecademy.com/learn/learn-python-3
 
 ## Machine Learning
 Coursera - https://www.coursera.org/learn/machine-learning
-Data Science Handbook - https://jakevdp.github.io/PythonDataScienceHandbook/ 
+Data Science Handbook - https://jakevdp.github.io/PythonDataScienceHandbook/
+Google ML Crashcourse - https://developers.google.com/machine-learning/crash-course/ml-intro
 
 ## Platforms
 
@@ -24,6 +25,7 @@ Data Science Handbook - https://jakevdp.github.io/PythonDataScienceHandbook/
 
 ## Mathematics
 
+* Maths for ML - 
 * Statisitcs - http://onlinestatbook.com/
 * Linear Algebra - http://vmls-book.stanford.edu/
 * Bayesian Inference - https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC2.ipynb
