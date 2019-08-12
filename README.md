@@ -25,7 +25,7 @@ Google ML Crashcourse - https://developers.google.com/machine-learning/crash-cou
 
 ## Mathematics
 
-* Maths for ML - 
+* Maths for ML - https://github.com/erinkhoo/Microsoft-DAT256x
 * Statisitcs - http://onlinestatbook.com/
 * Linear Algebra - http://vmls-book.stanford.edu/
 * Bayesian Inference - https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC2.ipynb
