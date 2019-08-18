@@ -4,15 +4,15 @@ My learning list with resources for 2019
 Heavy focus on Machine Learning, Mathematics and supportive Software Engineering.
 
 ## SQL
-DataCamp - https://www.datacamp.com/courses/intro-to-sql-for-data-science
+* DataCamp - https://www.datacamp.com/courses/intro-to-sql-for-data-science
 
 ## Python
-codecademy - https://www.codecademy.com/learn/learn-python-3
+* codecademy - https://www.codecademy.com/learn/learn-python-3
 
 ## Machine Learning
-Coursera - https://www.coursera.org/learn/machine-learning
-Data Science Handbook - https://jakevdp.github.io/PythonDataScienceHandbook/
-Google ML Crashcourse - https://developers.google.com/machine-learning/crash-course/ml-intro
+* Coursera - https://www.coursera.org/learn/machine-learning
+* Data Science Handbook - https://jakevdp.github.io/PythonDataScienceHandbook/
+* Google ML Crashcourse - https://developers.google.com/machine-learning/crash-course/ml-intro
 
 ## Platforms
 
