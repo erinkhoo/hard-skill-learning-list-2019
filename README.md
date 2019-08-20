@@ -31,6 +31,7 @@ Heavy focus on Machine Learning, Mathematics and supportive Software Engineering
 * Maths for ML - https://github.com/erinkhoo/Microsoft-DAT256x
 * Statisitcs - http://onlinestatbook.com/
 * Linear Algebra - http://vmls-book.stanford.edu/
+* Essence Linear Algebra [videos] - https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab 
 * MIT Linear Algebra - https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 * Calculus - https://brilliant.org/calculus/
 * Bayesian Inference - https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC2.ipynb
