@@ -30,6 +30,7 @@ Heavy focus on Machine Learning, Mathematics and supportive Software Engineering
 * Feynman Lectures; Algebra - http://www.feynmanlectures.caltech.edu/I_22.html 
 * Maths for ML - https://github.com/erinkhoo/Microsoft-DAT256x
 * Statisitcs - http://onlinestatbook.com/
+* r/learnmath - https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/ 
 
 * Linear Algebra - http://vmls-book.stanford.edu/
 * Essence Linear Algebra [videos] - https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab 
