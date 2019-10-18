@@ -13,12 +13,13 @@ Heavy focus on Machine Learning, Mathematics and supportive Software Engineering
 * Coursera - https://www.coursera.org/learn/machine-learning
 * Data Science Handbook - https://jakevdp.github.io/PythonDataScienceHandbook/
 * Google ML Crashcourse - https://developers.google.com/machine-learning/crash-course/ml-intro
+* Amazon Educate - https://aws.amazon.com/machine-learning/
 
 ## Platforms
 
 * Google Colabortory - https://colab.research.google.com/
 * Amazon Sage Maker - https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD4+3T2018/course/
-* Amazon Educate - https://aws.amazon.com/machine-learning/
+* Jupyter notebook examples - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks 
 
 ## Machine Learning frameworks
 
