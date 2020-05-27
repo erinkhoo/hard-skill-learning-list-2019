@@ -8,7 +8,7 @@ Recent progress: (May 2020)
 
 - top 9% in Kaggle Titanic: Machine Learning from Disaster
 - top 35% in Kaggle Abstract and Reasoning Challenge
-- top 76% in Kaggle Tweet Sentiment Extraction
+- top 47% in Kaggle Tweet Sentiment Extraction
 
 [Kaggle Profile Page](https://www.kaggle.com/erinkhoo/competitions)
 
