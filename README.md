@@ -7,8 +7,8 @@ I have since been accepted and have been doing the MSc over the last +6 months.
 Recent progress: (May 2020)
 
 - top 9% in Kaggle Titanic: Machine Learning from Disaster
-- top 35% in Kaggle Abstract and Reasoning Challenge
-- top 47% in Kaggle Tweet Sentiment Extraction
+- top 34% in Kaggle Abstract and Reasoning Challenge
+- top 13% in Kaggle Tweet Sentiment Extraction
 
 [Kaggle Profile Page](https://www.kaggle.com/erinkhoo/competitions)
 
@@ -52,6 +52,7 @@ Feel free to follow me on [Twitter](https://twitter.com/erinkhoo)
 * Feynman Lectures; Algebra - http://www.feynmanlectures.caltech.edu/I_22.html 
 * Maths for ML - https://github.com/erinkhoo/Microsoft-DAT256x
 * Statisitcs - http://onlinestatbook.com/
+* Probability - https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG [Ben Lambert]
 * r/learnmath - https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/ 
 * Linear Algebra - http://vmls-book.stanford.edu/
 * Essence Linear Algebra [videos] - https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab 
