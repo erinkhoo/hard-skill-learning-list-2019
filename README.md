@@ -2,7 +2,7 @@
 My learning list with resources for 2019 and 2020
 
 Heavy focus on Machine Learning, Mathematics and supportive Software Engineering. I started this repo to prepare for a Masters in Artificial Intelligence with the University of Limerick.
-I have since been accepted and have been doing the MSc over the last +13 months.
+I have since been accepted and *completed* the MSc. over the last 24+ months.
 
 Recent progress: (Sept 2020)
 
